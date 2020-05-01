@@ -1,10 +1,19 @@
 {
-  "name": "fcc-learn-npm-package-json",
-  "author": "trang tran",
-  "description": "A project that does something awesome",
-  "keywords": ["practice", "fcc", "node", "api", "freecodecamp"],
+	"name": "fcc-learn-npm-package-json",
+	"author": "trang tran",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"practice",
+		"fcc",
+		"node",
+		"api",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
