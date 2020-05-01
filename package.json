@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "trang tran",
   "description": "A project that does something awesome",
+  "keywords": ["practice", "fcc", "node", "api"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
